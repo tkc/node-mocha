@@ -1,0 +1,28 @@
+{
+  "name": "node-mocha",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tkc/node-mocha.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tkc/node-mocha/issues"
+  },
+  "homepage": "https://github.com/tkc/node-mocha#readme",
+  "dependencies": {
+    "eddystone-url-encoding": "^1.0.1",
+    "es6-promise": "^3.1.2",
+    "form-data": "^1.0.0-rc4",
+    "form-urlencoded": "^1.2.1",
+    "isomorphic-fetch": "^2.2.1",
+    "power-assert": "^1.3.1",
+    "urlencode": "^1.1.0"
+  }
+}
